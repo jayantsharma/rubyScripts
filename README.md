@@ -5,4 +5,4 @@
     - first one is a prefix sum problem
     - second is a binary sequence problem
     - third one is an incorrect solution to a chess problem with knight movements
-* test - solution to another toptal problem; given a word as input, find all anagrams of it in the file wl.txt (also present in the repository) 
+* problem1.rb - solution to another toptal problem; given a word as input, find all anagrams of it in the file wl.txt (also present in the repository) 
